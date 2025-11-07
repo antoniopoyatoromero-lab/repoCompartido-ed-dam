@@ -1,5 +1,5 @@
 # Proyecto Colaborativo
-Estado: borrador
+Estado: Estable
 Lema: _Por definir_
 Contadores:
 - líneas totales: 0
