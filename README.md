@@ -1,6 +1,6 @@
 # Proyecto Colaborativo
 Estado: Estable
-Lema: _Por definir_
+Lema: _Iterar y mejorar_
 Contadores:
 - líneas totales: 0
 - colaboradores: 0
