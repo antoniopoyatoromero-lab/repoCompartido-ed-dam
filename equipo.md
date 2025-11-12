@@ -1,5 +1,6 @@
 # Equipo
-- A: sin bio
-- B: sin bio
-- C: sin bio
-- D: sin bio
+
+* A: Soy Antonio Poyato Romero
+* B: sin bio
+* C: sin bio
+* D: sin bio
